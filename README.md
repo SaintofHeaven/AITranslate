@@ -1,46 +1,38 @@
-# Getting Started with Create React App
+# AITranslate
+Welcome to AITranslate, an application that leverages the power of GPT-4 API to seamlessly translate text from any spoken language to any language supported by GPT-4.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+AITranslate aims to provide a user-friendly interface for translating text with the help of cutting-edge language processing technology. With GPT-4 at its core, AITranslate offers accurate and contextually relevant translations, making it a versatile tool for communication across languages.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+**Translation Capabilities:** Translate text from a GPT-4 compatible language to any other language supported.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**User-Friendly Interface**: Intuitive design for easy input and output of text translations.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Scalable Architecture**: Built with scalability in mind to handle a large volume of translation requests efficiently.
 
-### `npm test`
+**Future Enhancements**: Planned integration of custom language models to further enhance translation accuracy and capabilities.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+To use AITranslate, simply input the text you want to translate and select the desired source and target languages. The application will then utilize the GPT-4 API to generate the translation.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**AITranslate is currently under development. Stay tuned for updates on installation instructions once the client-side code and backend framework are available.**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We welcome contributions from the community to help improve AITranslate. Whether it's through code contributions, bug fixes, or feature suggestions, your input is valuable in making AITranslate a better tool for language translation.
 
-### `npm run eject`
+## Roadmap
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Client Side Development**: Complete the development of the client-side code for AITranslate.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Backend Framework**: Build a robust backend framework to efficiently process queries and API requests.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Custom Language Model**: Research and development of a custom NLP model to supplement AITranslate and enhance translation capabilities.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is licensed under the MIT License.
